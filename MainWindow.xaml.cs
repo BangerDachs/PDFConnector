@@ -8,7 +8,7 @@ using Microsoft.Win32;
 using PdfSharp.Pdf;
 using PdfSharp.Pdf.IO;
 
-namespace PDFConnector
+namespace PDFConnector // 
 {
 
     public partial class MainWindow : Window
